@@ -1,60 +1,98 @@
-# PRIVACY POLICY
 
-This privacy policy governs your use of the software application Kėdainiečio Kortelė (“Application”) for mobile devices that was created by MeritStory. The Application Kėdainiečio Kortelė is made for the municipality of Kėdainių rajonas to easier offer services to its residents.
+KĖDAINIŲ RAJONO SAVIVALDYBĖS ADMINISTRACIJOS MOBILIOSIOS APLIKACIJOS „KĖDAINIEČIO KORTELĖ“ PRIVATUMO POLITIKA
 
- 
-## What information does the Application obtain and how is it used?
+I SKYRIUS
+BENDROSIOS NUOSTATOS
 
-### User Provided Information 
+             1. Kėdainių rajono savivaldybės administracijos mobiliosios aplikacijos „Kėdainiečio kortelė“ (toliau – „Mobilioji aplikacija“) privatumo politika (toliau – „Privatumo politika“) reglamentuoja pagrindinius Mobiliosios aplikacijos naudotojų asmens duomenų rinkimo, tvarkymo bei saugojimo principus bei tvarką.
+             2. Kėdainių rajono savivaldybės administracija (toliau – Administracija), juridinio asmens kodas 188768545, buveinės adresas J. Basanavičiaus g. 36, 57288, Kėdainiai, yra tvarkomų asmens duomenų valdytojas, kuris užtikrina, kad asmens duomenys administracijoje, naudotojams naudojantis Mobiliąja aplikacija, būtų tvarkomi laikantis duomenų valdytojams taikomų asmens duomenų apsaugos reikalavimų.
+             3. Asmens duomenis Administracija tvarko vadovaudamasi 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB, Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo ir kitų teisės aktų, reglamentuojančių asmens duomenų apsaugą, nuostatomis.
+            4. Kėdainių rajono savivaldybės administracija organizacinėmis ir techninėmis priemonėmis užtikrina, kad asmens duomenų apsaugos lygis atitiktų teisės aktų nustatytus reikalavimus ir Naudotojo pateikti asmens duomenys būtų apsaugoti nuo bet kokių neteisėtų veiksmų: neteisėto asmens duomenų pakeitimo, atskleidimo ar sunaikinimo, asmens tapatybės vagysčių ir sukčiavimo.
+           5.  Pagrindinės Privatumo politikoje vartojamos sąvokos:
+           5.1. Asmens duomenys – bet kuri informacija, susijusi su fiziniu asmeniu, kurio tapatybė yra žinoma arba gali būti tiesiogiai arba netiesiogiai nustatyta pasinaudojant asmens duomenimis, tokiais kaip vardas, pavardė, asmens kodas, adresas, elektroninio pašto adresas, buvimo vietos duomenys, interneto identifikatorius ir kt.;
+          5.2. Duomenų subjektas – darbuotojai, interesantai ir kiti fiziniai asmenys, kurių duomenis tvarko Kėdainių rajono savivaldybės administracija;
+          5.3. Duomenų tvarkymas – bet kokia automatizuotomis arba neautomatizuotomis priemonėmis su asmens duomenimis ar asmens duomenų rinkiniais atliekama operacija ar operacijų seka, kaip antai rinkimas, įrašymas, rūšiavimas, sisteminimas, saugojimas, adaptavimas ar keitimas, išgava, susipažinimas, naudojimas, atskleidimas persiunčiant, platinant ar kitu būdu sudarant galimybę jais naudotis, taip pat sugretinimas ar sujungimas su kitais duomenimis, apribojimas, ištrynimas arba sunaikinimas.
 
-The Application obtains the information you provide when you download and register the Application. Registration with us is optional. However, please keep in mind that you may not be able to use some of the features offered by the Application unless you register with us.
+II SKYRIUS
+ASMENS DUOMENŲ TVARKYMO TIKSLAI
 
-When you register with us and use the Application, you generally provide (a) your name, age, user name, and other registration information; (b) transaction-related information, such as when you make purchases, respond to any offers, or download or use applications from us; (c) information you provide us when you contact us for help; (d) credit card information for purchase and use of the Application, and; (e) information you enter into our system when using the Application, such as contact information and project management information.
+           6. Asmens duomenys, susiję su Mobiliosios aplikacijos naudojimu, tvarkomi tik gavus duomenų subjekto sutikimą, jį pateikiant registracijos Mobiliojoje aplikacijoje metu, siekiant apsaugoti asmens  interesus ir vykdant Kėdainių rajono savivaldybės administracijai pavestas funkcijas. 
 
-We may also use the information you provided us to contact your from time to time to provide you with important information, required notices and marketing promotions.
+            
+III SKYRIUS
+TVARKOMI ASMENS DUOMENYS
 
-### Automatically Collected Information 
+           7. Mobiliojoje aplikacijoje duomenų bazėje  tvarkomi šie asmens duomenys:
+           7.1. vardas ir pavardė;
+           7.2. asmens kodas (asmens kodas tvarkomas, jeigu Naudotojas atlieka atpažinimą per Elektroninius valdžios vartus);
+           7.3. gimimo metai;
+           7.4. gyvenamoji vieta (adresas);
+           7.5. telefono ryšio numeris;
+           7.6. nuotraukos (padarytos ir (ar) išsiųstos nuotraukos);
+           7.7. vietos nustatymo duomenys.
+           8. Mobiliosios aplikacijos duomenų bazėje tvarkomi kiti Naudotojo duomenys:
+           8.1. telefono modelis ir operacinė sistema;
+           8.2. atsiųsti įvertinimai dėl Mobiliosios aplikacijos funkcionalumo.
 
-In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application. 
+Tiesioginė rinkodara
+Teisinis pagrindas: Sutikimas.
+Duomenys: Tiesioginės rinkodaros sutikimą davusio asmens vardas, elektroninio pašto adresas, telefono numeris, gimimo data.
+Saugojimo laikotarpis: 2 metai.
 
-## Does the Application collect precise real time location information of the device?
+Techninių gedimų, dėl kurių netinkamai suteikiamos Mobilios aplikacijos paslaugos, šalinimas
+Teisinis pagrindas: Teisėtas interesas (naudotojų poreikiams geriau pritaikyti Mobilios aplikacijos funkcionalumus ir taisyti technines klaidas).
+Duomenys: Mobiliosios aplikacijos naudotojo vardas, pavardė, telefono numeris, elektroninio pašto adresas, IP adresas, įrenginio ID, įrenginio modelis, naudojama operacinė sistema ir jos versija, Mobiliosios aplikacijos versija bei Mobiliojoje aplikacijoje atliekami veiksmai.
+Saugojimo laikotarpis: 2 metai.
 
-This Application does not collect precise information about the location of your mobile device.  
+Paslaugų kokybės gerinimas
+Teisinis pagrindas: Sutikimas.
+Duomenys: Mobiliosios aplikacijos atsiliepimo formoje pateikti duomenys.
+Saugojimo laikotarpis: 2 metai.
 
-## Do third parties see and/or have access to information obtained by the Application?
+Mobiliosios aplikacijos vystymas
+Teisinis pagrindas: Teisėtas interesas (naudotojų poreikiams geriau pritaikyti Mobilios aplikacijos funkcionalumus ir taisyti technines klaidas).
+Duomenys: Mobiliosios aplikacijos naudotojo įrenginio, kuriame naudojama Mobilioji aplikacija, IP adresas, įrenginio ID, įrenginio modelis, naudojama operacinė sistema ir jos versija, Mobiliosios aplikacijos versija bei Mobiliojoje aplikacijoje atliekami veiksmai.
+Saugojimo laikotarpis: Techniniai įrašai (angl. logs) tiesiogiai nesusieti su konkrečiu naudotoju toliau saugomi 3 mėnesius.
 
-Only aggregated, anonymized data is periodically transmitted to external services to help us improve the Application and our service. We will share your information with third parties only in the ways that are described in this privacy statement.
+Apgaulės bei nusikaltimų prevencija
+Teisinis pagrindas: Teisėtas interesas (užkirsti kelią neteisėtoms veikoms).
+Duomenys: Visi 7 punkte nurodyti duomenys.
+Saugojimo laikotarpis: Tvarkomi tik gavus skundą, įgaliotos institucijos prašymą ar įtariant neteisėtą veiką, saugoma pagal tokiems tyrimams teisės aktuose numatytus terminus, bet ne ilgiau nei teisės aktuose numatytą ieškinio senaties terminą.
 
-We may disclose User Provided and Automatically Collected Information:
-- as required by law, such as to comply with a subpoena, or similar legal process;
-- when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-- with our trusted services providers who work on our behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
-- if MeritStory is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices you may have regarding this information.
+IV SKYRIUS
+ASMENS DUOMENŲ PERDAVIMAS TREČIOSIOMS ŠALIMS
 
-## What are my opt-out rights?
+          9. Naudotojų asmens duomenų Administracija neteikia tretiesiems asmenims, išskyrus šiuos atvejus:
+         9.1. asmens duomenis teikti tretiesiems asmenims įpareigoja įstatymai ir kiti teisės aktai;
+         9.2. teisėsaugos institucijoms pagal jų prašymus teisės aktų nustatyta tvarka.
+        10. Naudotojų asmens duomenis Administracija gali perduoti Administracijos pasirinktiems paslaugų teikėjams (IT sistemų priežiūros įmonėms, interneto svetainės talpinimo paslaugas teikiančioms įmonėms, duomenų saugojimo paslaugas teikiančioms įmonėms ir pan.). Administracijos pasirinkti paslaugų teikėjai naudotojų asmens duomenis tvarko Administracijos vardu.
+         11. Administracija naudotojų asmens duomenų neperduoda į trečiąsias valstybes ar tarptautines organizacijas, t. y. už Europos Sąjungos ribų, išskyrus atvejus, kai tai įpareigoja atlikti teisės aktai ar teismai. 
 
-You can stop all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. You can also request to opt-out via email, at privacy@meritstory.com.
+V SKYRIUS
+ASMENS DUOMENŲ SAUGOJIMAS
 
-## Data Retention Policy, Managing Your Information
+          12. Tvarkydama naudotojų asmens duomenis Administracija įgyvendina reikiamas organizacines ir technines asmens duomenų saugumo priemones siekiant apsaugoti naudotojų asmens duomenis nuo atsitiktinio ar neteisėto atskleidimo ar kitokio neteisėto tvarkymo. Naudotojo asmens duomenys ir kita informacija, pateikta registracijos  metu, saugomi  duomenų bazėje iki  pašalinimo.  
 
-We will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. We will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you’d like us to delete User Provided Data that you have provided via the Application, please contact us at privacy@meritstory.com and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
+VI SKYRIUS
+DUOMENŲ SUBJEKTŲ TEISIŲ ĮGYVENDINIMAS
 
-## Children
+         13.  Teisės aktų nustatyta tvarka naudotojai, kaip duomenų subjektas, turite teisę:
+         13.1. susipažinti su savo asmens duomenimis;
+         13.2. prašyti ištaisyti ar papildyti neteisingus ir netikslius asmens duomenis;
+         13.3. prašyti apriboti asmens duomenų tvarkymą;
+         13.4. prašyti perkelti naudotojų pateiktus asmens duomenis kitam duomenų valdytojui;
+         13.5. prašyti ištrinti duomenis;
+         13.6. nesutikti su naudotojų asmens duomenų tvarkymu (tokiu atveju naudotojas gali netekti galimybės naudotis mūsų svetainės turiniu);
+         13.7. pateikti skundą apie pažeidimą dėl asmens duomenų tvarkymo Administracijai arba priežiūros funkcijas vykdančiai institucijai.
+         14. Prašymus ar klausimus, susijusius su Svetainės naudotojų asmens duomenų tvarkymu administracijai galima pateikti adresu J. Basanavičiaus g. 36, 57288, Kėdainiai arba el. paštu duomenu.sauga@kedainiai.lt.
 
-We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at privacy@meritstory.com. We will delete such information from our files within a reasonable time.
+VII SKYRIUS
+NUORODOS Į KITUS TINKLALAPIUS
 
-## Security
+         15. Mobiliojoje aplikacijoje gali būti pateikiamos nuorodos į kitus tinklalapius ar mobiliąsias programas, įskaitant trečiųjų šalių valdomus tinklalapius ir mobiliąsias programas, kuriems nėra taikoma ši Privatumo politika ir juose taikomos privatumo nuostatos gali skirtis. Naudotojai peržvelgia kiekvieno tokio tinklalapio, mobiliųjų programų privatumo politiką prieš pateikiant bet kokią asmenį identifikuojančią informaciją.
 
-We are concerned about safeguarding the confidentiality of your information. We provide physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve our Application. Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
+VIII SKYRIUS
+BAIGIAMOSIOS NUOSTATOS
 
-## Changes
-
-This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here and informing you via email or text message. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes. You can check the history of this policy by clicking here.
-
-## Your Consent
-
-By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the Lithuania. If you reside outside the Lithuania your information will be transferred, processed and stored there under Lithuania privacy standards. 
-
-## Contact us
-
-If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at privacy@meritstory.com.
+          16. Privatumo politika gali būti keičiama ar pripažįstama netekusiu galios Administracijos direktoriaus įsakymu.
+          17. Kita informacija apie Administracijos atliekamą asmens duomenų tvarkymą skelbiama interneto svetainės skyriuje „Asmens duomenų apsauga“.
