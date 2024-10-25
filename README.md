@@ -14,7 +14,7 @@ BENDROSIOS NUOSTATOS**
 5.3. Duomenų tvarkymas – bet kokia automatizuotomis arba neautomatizuotomis priemonėmis su asmens duomenimis ar asmens duomenų rinkiniais atliekama operacija ar operacijų seka, kaip antai rinkimas, įrašymas, rūšiavimas, sisteminimas, saugojimas, adaptavimas ar keitimas, išgava, susipažinimas, naudojimas, atskleidimas persiunčiant, platinant ar kitu būdu sudarant galimybę jais naudotis, taip pat sugretinimas ar sujungimas su kitais duomenimis, apribojimas, ištrynimas arba sunaikinimas.
 
 **II SKYRIUS**
-ASMENS DUOMENŲ TVARKYMO TIKSLAI
+**ASMENS DUOMENŲ TVARKYMO TIKSLAI**
 
 6. Asmens duomenys, susiję su Mobiliosios aplikacijos naudojimu, tvarkomi tik gavus duomenų subjekto sutikimą, jį pateikiant registracijos Mobiliojoje aplikacijoje metu, siekiant apsaugoti asmens  interesus ir vykdant Kėdainių rajono savivaldybės administracijai pavestas funkcijas. 
 
