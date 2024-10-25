@@ -1,8 +1,7 @@
 **KĖDAINIŲ RAJONO SAVIVALDYBĖS ADMINISTRACIJOS MOBILIOSIOS APLIKACIJOS „KĖDAINIEČIO KORTELĖ“ PRIVATUMO POLITIKA**
 
 
-**I SKYRIUS**
-
+**I SKYRIUS**<br/>
 **BENDROSIOS NUOSTATOS**
 
 1. Kėdainių rajono savivaldybės administracijos mobiliosios aplikacijos „Kėdainiečio kortelė“ (toliau – „Mobilioji aplikacija“) privatumo politika (toliau – „Privatumo politika“) reglamentuoja pagrindinius Mobiliosios aplikacijos naudotojų asmens duomenų rinkimo, tvarkymo bei saugojimo principus bei tvarką.
@@ -15,15 +14,13 @@
 5.3. Duomenų tvarkymas – bet kokia automatizuotomis arba neautomatizuotomis priemonėmis su asmens duomenimis ar asmens duomenų rinkiniais atliekama operacija ar operacijų seka, kaip antai rinkimas, įrašymas, rūšiavimas, sisteminimas, saugojimas, adaptavimas ar keitimas, išgava, susipažinimas, naudojimas, atskleidimas persiunčiant, platinant ar kitu būdu sudarant galimybę jais naudotis, taip pat sugretinimas ar sujungimas su kitais duomenimis, apribojimas, ištrynimas arba sunaikinimas.
 
 
-**II SKYRIUS**
-
+**II SKYRIUS**<br/>
 **ASMENS DUOMENŲ TVARKYMO TIKSLAI**
 
 6. Asmens duomenys, susiję su Mobiliosios aplikacijos naudojimu, tvarkomi tik gavus duomenų subjekto sutikimą, jį pateikiant registracijos Mobiliojoje aplikacijoje metu, siekiant apsaugoti asmens  interesus ir vykdant Kėdainių rajono savivaldybės administracijai pavestas funkcijas. 
 
             
-**III SKYRIUS**
-
+**III SKYRIUS**<br/>
 **TVARKOMI ASMENS DUOMENYS**
 
 7. Mobiliojoje aplikacijoje duomenų bazėje  tvarkomi šie asmens duomenys:
@@ -57,22 +54,19 @@
 **Saugojimo laikotarpis:** 2 metai.<br/>
 
 
-**Mobiliosios aplikacijos vystymas**
-
-**Teisinis pagrindas:** Teisėtas interesas (naudotojų poreikiams geriau pritaikyti Mobilios aplikacijos funkcionalumus ir taisyti technines klaidas).
-**Duomenys:** Mobiliosios aplikacijos naudotojo įrenginio, kuriame naudojama Mobilioji aplikacija, IP adresas, įrenginio ID, įrenginio modelis, naudojama operacinė sistema ir jos versija, Mobiliosios aplikacijos versija bei Mobiliojoje aplikacijoje atliekami veiksmai.
-**Saugojimo laikotarpis:** Techniniai įrašai (angl. logs) tiesiogiai nesusieti su konkrečiu naudotoju toliau saugomi 3 mėnesius.
-
-
-**Apgaulės bei nusikaltimų prevencija**
-
-**Teisinis pagrindas:** Teisėtas interesas (užkirsti kelią neteisėtoms veikoms).
-**Duomenys:** Visi 7 punkte nurodyti duomenys.
-**Saugojimo laikotarpis:** Tvarkomi tik gavus skundą, įgaliotos institucijos prašymą ar įtariant neteisėtą veiką, saugoma pagal tokiems tyrimams teisės aktuose numatytus terminus, bet ne ilgiau nei teisės aktuose numatytą ieškinio senaties terminą.
+**Mobiliosios aplikacijos vystymas**<br/>
+**Teisinis pagrindas:** Teisėtas interesas (naudotojų poreikiams geriau pritaikyti Mobilios aplikacijos funkcionalumus ir taisyti technines klaidas).<br/>
+**Duomenys:** Mobiliosios aplikacijos naudotojo įrenginio, kuriame naudojama Mobilioji aplikacija, IP adresas, įrenginio ID, įrenginio modelis, naudojama operacinė sistema ir jos versija, Mobiliosios aplikacijos versija bei Mobiliojoje aplikacijoje atliekami veiksmai.<br/>
+**Saugojimo laikotarpis:** Techniniai įrašai (angl. logs) tiesiogiai nesusieti su konkrečiu naudotoju toliau saugomi 3 mėnesius.<br/>
 
 
-**IV SKYRIUS**
+**Apgaulės bei nusikaltimų prevencija**<br/>
+**Teisinis pagrindas:** Teisėtas interesas (užkirsti kelią neteisėtoms veikoms).<br/>
+**Duomenys:** Visi 7 punkte nurodyti duomenys.<br/>
+**Saugojimo laikotarpis:** Tvarkomi tik gavus skundą, įgaliotos institucijos prašymą ar įtariant neteisėtą veiką, saugoma pagal tokiems tyrimams teisės aktuose numatytus terminus, bet ne ilgiau nei teisės aktuose numatytą ieškinio senaties terminą.<br/>
 
+
+**IV SKYRIUS**<br/>
 **ASMENS DUOMENŲ PERDAVIMAS TREČIOSIOMS ŠALIMS**
 
 9. Naudotojų asmens duomenų Administracija neteikia tretiesiems asmenims, išskyrus šiuos atvejus:
@@ -82,15 +76,13 @@
 11. Administracija naudotojų asmens duomenų neperduoda į trečiąsias valstybes ar tarptautines organizacijas, t. y. už Europos Sąjungos ribų, išskyrus atvejus, kai tai įpareigoja atlikti teisės aktai ar teismai. 
 
 
-**V SKYRIUS**
-
+**V SKYRIUS**<br/>
 **ASMENS DUOMENŲ SAUGOJIMAS**
 
 12. Tvarkydama naudotojų asmens duomenis Administracija įgyvendina reikiamas organizacines ir technines asmens duomenų saugumo priemones siekiant apsaugoti naudotojų asmens duomenis nuo atsitiktinio ar neteisėto atskleidimo ar kitokio neteisėto tvarkymo. Naudotojo asmens duomenys ir kita informacija, pateikta registracijos  metu, saugomi  duomenų bazėje iki  pašalinimo.  
 
 
-**VI SKYRIUS**
-
+**VI SKYRIUS**<br/>
 **DUOMENŲ SUBJEKTŲ TEISIŲ ĮGYVENDINIMAS**
 
 13.  Teisės aktų nustatyta tvarka naudotojai, kaip duomenų subjektas, turite teisę:
@@ -104,15 +96,13 @@
 14. Prašymus ar klausimus, susijusius su Svetainės naudotojų asmens duomenų tvarkymu administracijai galima pateikti adresu J. Basanavičiaus g. 36, 57288, Kėdainiai arba el. paštu duomenu.sauga@kedainiai.lt.
 
 
-**VII SKYRIUS**
-
+**VII SKYRIUS**<br/>
 **NUORODOS Į KITUS TINKLALAPIUS**
 
 15. Mobiliojoje aplikacijoje gali būti pateikiamos nuorodos į kitus tinklalapius ar mobiliąsias programas, įskaitant trečiųjų šalių valdomus tinklalapius ir mobiliąsias programas, kuriems nėra taikoma ši Privatumo politika ir juose taikomos privatumo nuostatos gali skirtis. Naudotojai peržvelgia kiekvieno tokio tinklalapio, mobiliųjų programų privatumo politiką prieš pateikiant bet kokią asmenį identifikuojančią informaciją.
 
 
-**VIII SKYRIUS**
-
+**VIII SKYRIUS**<br/>
 **BAIGIAMOSIOS NUOSTATOS**
 
 16. Privatumo politika gali būti keičiama ar pripažįstama netekusiu galios Administracijos direktoriaus įsakymu.
