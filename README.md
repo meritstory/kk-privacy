@@ -39,25 +39,22 @@
 8.2. atsiųsti įvertinimai dėl Mobiliosios aplikacijos funkcionalumo.
 
 
-**Tiesioginė rinkodara**
-
-**Teisinis pagrindas:** Sutikimas.
-**Duomenys:** Tiesioginės rinkodaros sutikimą davusio asmens vardas, elektroninio pašto adresas, telefono numeris, gimimo data.
-**Saugojimo laikotarpis:** 2 metai.
-
-
-**Techninių gedimų, dėl kurių netinkamai suteikiamos Mobilios aplikacijos paslaugos, šalinimas**
-
-**Teisinis pagrindas:** Teisėtas interesas (naudotojų poreikiams geriau pritaikyti Mobilios aplikacijos funkcionalumus ir taisyti technines klaidas).
-**Duomenys:** Mobiliosios aplikacijos naudotojo vardas, pavardė, telefono numeris, elektroninio pašto adresas, IP adresas, įrenginio ID, įrenginio modelis, naudojama operacinė sistema ir jos versija, Mobiliosios aplikacijos versija bei Mobiliojoje aplikacijoje atliekami veiksmai.
-**Saugojimo laikotarpis:** 2 metai.
+**Tiesioginė rinkodara**<br/>
+**Teisinis pagrindas:** Sutikimas.<br/>
+**Duomenys:** Tiesioginės rinkodaros sutikimą davusio asmens vardas, elektroninio pašto adresas, telefono numeris, gimimo data.<br/>
+**Saugojimo laikotarpis:** 2 metai.<br/>
 
 
-**Paslaugų kokybės gerinimas**
+**Techninių gedimų, dėl kurių netinkamai suteikiamos Mobilios aplikacijos paslaugos, šalinimas**<br/>
+**Teisinis pagrindas:** Teisėtas interesas (naudotojų poreikiams geriau pritaikyti Mobilios aplikacijos funkcionalumus ir taisyti technines klaidas).<br/>
+**Duomenys:** Mobiliosios aplikacijos naudotojo vardas, pavardė, telefono numeris, elektroninio pašto adresas, IP adresas, įrenginio ID, įrenginio modelis, naudojama operacinė sistema ir jos versija, Mobiliosios aplikacijos versija bei Mobiliojoje aplikacijoje atliekami veiksmai.<br/>
+**Saugojimo laikotarpis:** 2 metai.<br/>
 
-**Teisinis pagrindas:** Sutikimas.
-**Duomenys:** Mobiliosios aplikacijos atsiliepimo formoje pateikti duomenys.
-**Saugojimo laikotarpis:** 2 metai.
+
+**Paslaugų kokybės gerinimas**<br/>
+**Teisinis pagrindas:** Sutikimas.<br/>
+**Duomenys:** Mobiliosios aplikacijos atsiliepimo formoje pateikti duomenys.<br/>
+**Saugojimo laikotarpis:** 2 metai.<br/>
 
 
 **Mobiliosios aplikacijos vystymas**
